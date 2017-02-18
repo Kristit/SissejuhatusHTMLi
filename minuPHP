@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<head>
+<title> Vorgurakendused</title>
+<meta charset="utf-8">	
+</head>
+
+
+<body>
+<!Ñ kommentaarid-Ñ!>
+
+	<h1> Teretulemast vorgurakenduste kursusele </h1>
+
+	<strong>Ma teen esimesi katsetusi Html-i kirjutamises.</strong>
+	<br>
+	<h1>Ma katsetan teksti fromattimist: </h1>
+	<br><ol>Hetkel naev kull see esialgne variant vaga kole valja. Nadalavahetusel on mul aega ja siis ma puuan natuke rohkem selle ainega tegelda ja midagi ilusamat koodida. Vaatan labi videod ja arvatavasti teen katsetusi. Voibolla vaatan lisaks Udemy videosid. Kull-kulale liiga ei tee!
+Voibolla olen <del>laisk</del> eriti tubli ja puuan muud ka teha.
+
+
+<br>Hetkel ei saanud ma paris aru kuidas kasutada isikliku serverit. Ja kuidas neid tappitahti saab. Kasutasin kull oma koodis &quotmeta charset=utf-8&quot, aga olen sellest vist valesti aru saanud:D. Hetkel kull midagi valja ei tulnud. Jargmiseks tunniks on mul juba palju ilusam disain ja ka tekst peaks nagema tip-top valja.
+</ol>
+
+<em> em- teeb paneb teksti kaldu.</em>
+<br>
+
+<small> small- teeb teksti vaikseks</small></br>
+<br>
+<ins> ins ja u- teevad teksti underlinina</ins></br>
+<br>
+<b>b- teeb teksti boldiks, analoogselt sobib ka strong</b>
+
+<br><ol>
+
+<li> teksti nummerdus</li>
+<li> teksti nummerdus</li>
+<li> teksti nummerdus</li>
+</ol>
+
+<h3>
+<a href=ÇÊhttps://www.codecademy.com/learn/webÊÈ> Klikki siia, et n2ha kust ma 6pin koodimist. </a>
+</h3>
+<h4>Siia on lisatud netist voetud pilt. Pildile ei tule sulgemis m2rki</h4>
+<img src=ÇÊhttp://images-gmi-pmc.edge-generalmills.com/2d3461e4-d102-4085-a64a-74db40c622c9.jpgÈ>
+</br>
+
+
+
+
+
+<small> See v2ikse pildi abil saab kontrollida HTML koodi. Selleks kasutan HTML validaatorit</small>
+ <a href="http://validator.w3.org/check?uri=referer">
+  <img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88" />
+ </a>
+<?php // See on PHP tag?>
+<?php echo ÇÊSee tekst tuleb PHPstÊÈ; ?>
+
+</body>
+</html>
