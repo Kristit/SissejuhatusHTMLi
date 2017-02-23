@@ -1,0 +1,45 @@
+<!Doctype HTML>
+<meta charset="utf-8">
+
+
+<html>
+    <head>
+        
+        <title>Kristi web</title>
+    </head>
+    <body>
+        
+             
+        <h1>Form2</h1>
+        <form action="data.php" method="post">
+            <fieldset>
+            <legend>Paying information </legend>
+               <label>Billing Aadress</label><br>
+                <label >Name</label>
+                <input type="text" name="nimi" placeholder="Kalle Kusta"> 
+                <label >Street</label>
+                <input type="text" name="street" placeholder="Sakala 12-3"> 
+                <label >Zip code</label>
+                <input type="text" name="zip" placeholder="11045"> 
+                 <label >Country</label>
+                <input type="text" name="country" placeholder="Estonia"> 
+                <br><br>
+                <label>Paying method</label>
+                <br>
+                <select name="paying method">
+                    <option value="bill">Bill
+                    <option value="cach"> Cash
+                    <option value="creditcard" selected> Creditcard
+                        </select>
+                 <br><br>
+                <label>Message to seller</label><br>
+                <textarea name="message" rows="10" cols="80" placeholder="Write additional information for the seller"></textarea>
+                <br><br>
+                
+                <br><br>
+                <button type="sumbit"> Send</button>
+                
+            </fieldset>
+        </form>
+    </body>
+</html>
