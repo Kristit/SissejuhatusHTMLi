@@ -36,11 +36,13 @@ h1:hover{
     font-style: italic;
 }
 #lingid{
-    color: cornflowerblue;
     text-align: left;
     color: darkgrey
 }
 
+#lingid: visited{
+color:red;
+}
     
 }
 .help{
